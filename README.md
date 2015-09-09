@@ -1,2 +1,4 @@
-# pyfiber
-fiber assignment in python
+pyfiber
+=======
+
+Fiber allocation in Python
